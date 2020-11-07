@@ -1,4 +1,6 @@
 ### TinyRead 基于 "CSDN 去广告沉浸阅读模式-美女版" 版本进行简化,去除背景图
+
+脚本地址👉https://greasyfork.org/zh-CN/scripts/414312-tidyread
  
 净化前:
  
